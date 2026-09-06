@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
         'forever', 'always', 'you', 'me & you', 'love you', 'sweetheart'
     ];
 
-    const secretMessage = "You make my world brighter just by being in it. Every smile you share, every laugh we have, and every tiny moment with you is something I treasure. I am so incredibly lucky to have you in my life. ❤️";
+    const secretMessage = "Dear Faith, my love, loving you is one of the things I will always be proud of in this life. You are not just beautiful to my eyes but special to my heart, and having you in my life feels like having a rare blessing I never want to lose. No matter what happens, I hope you always remember that you are deeply loved, appreciated, and cherished by someone who is genuinely proud to call you his. ❤️";
 
     let isFixed = false;
     let isTyping = false;
